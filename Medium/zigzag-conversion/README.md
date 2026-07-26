@@ -2,7 +2,7 @@
 **Difficulty:** Medium
 **Tags:** String
 **Runtime:** 3 ms
-**Memory:** 46584000
+**Memory:** 46284000
 ## Problem
 The string 
 &quot;PAYPALISHIRING&quot;
