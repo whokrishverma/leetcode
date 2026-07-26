@@ -2,7 +2,7 @@
 **Difficulty:** Medium
 **Tags:** Two Pointers, String, Dynamic Programming
 **Runtime:** 8 ms
-**Memory:** 43408000
+**Memory:** 43672000
 ## Problem
 Given a string 
 s
