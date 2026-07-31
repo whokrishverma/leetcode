@@ -2,7 +2,7 @@
 **Difficulty:** Medium
 **Tags:** Dynamic Programming, Backtracking, Tree, Binary Search Tree, Binary Tree
 **Runtime:** 1 ms
-**Memory:** 46528000
+**Memory:** 46596000
 ## Problem
 Given an integer 
 n
